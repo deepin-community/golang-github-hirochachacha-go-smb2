@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-hirochachacha-go-smb2 (1.1.0-2) unstable; urgency=medium
 
-  * Initial release
+  * source upload for migration to testing
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Drew Parsons <dparsons@debian.org>  Wed, 07 Dec 2022 16:43:35 +0100
+
+golang-github-hirochachacha-go-smb2 (1.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1024470)
+
+ -- Drew Parsons <dparsons@debian.org>  Sun, 04 Dec 2022 23:00:18 +0100
